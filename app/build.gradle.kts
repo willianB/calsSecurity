@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.zefiroft.calsecurity"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.zefiroft.calsecurity"
