@@ -50,7 +50,7 @@ publishing {
                 from(components["release"])
                 groupId = "com.github.willianB"
                 artifactId = "cals-security"
-                version = "1.0.0"
+                version = "1.0.1"
             }
         }
     }
